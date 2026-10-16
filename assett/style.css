@@ -29,4 +29,78 @@ button {
   background: none;
 }
 
-/* Scrivi qui sotto i tuoi stili */
+
+
+.offerte{
+  background-color: #131921;
+text-align: center;
+width: 100%;
+}
+
+.navbar{
+
+background-color: #151822;
+
+width: 100%;
+padding: 12px 24px;
+font-size: 0;
+}
+
+.amazon{
+  display: inline-block;
+  width: 14%;
+  color: #FA9C01 ;
+  font-size: 28px;
+  font-weight: 700;
+  vertical-align: middle;
+}
+
+.searchcontainer{
+  display: inline-block;
+  width: 60%;
+  height: 40px;
+  border-radius: 8px;
+  vertical-align: middle;
+}
+
+.searchbar{
+  width: 80%;
+  display: inline-block;
+  height: 40px;
+  background-color: white;
+  border-radius: 5px;
+  vertical-align: middle;
+  padding : 0 16px;
+}
+.searchbutton{
+  display: inline-block;
+  width: 20%;
+  border-radius: 5px;
+  background-color:#FEBD69 ;
+  color: black;
+  font-weight: 600;
+  font-size: 20px;
+  cursor: pointer;
+  height: 40px;
+  text-align: center;
+  vertical-align: middle;
+}
+.destra{
+  display: inline-block;
+  width: 25%;
+  text-align: right;
+  font-size: 15px;
+  vertical-align: middle;
+}
+.destra a{
+  color: white;
+  display: inline-block;
+margin-left: 20px;
+}
+
+.offerte{
+  background-color: #283545;
+  color: white;
+  text-align: center;
+  
+}
